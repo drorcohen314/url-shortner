@@ -1,0 +1,3 @@
+[submodule "urlshortner-fe"]
+	path = urlshortner-fe
+	url = https://github.com/drorcohen314/urlshortner-fe.git
